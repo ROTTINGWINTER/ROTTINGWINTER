@@ -94,17 +94,17 @@
 # ENDINGS
 
 
-## ᘜOOᗪ ᗴᑎᗪIᑎᘜ 
+### ᘜOOᗪ ᗴᑎᗪIᑎᘜ 
 — You've successfully took out The Rustborne Syndicate members.. Now you just have to find a way back to the city.
 
 
-## ᑎᗴᑌTᖇᗩᒪ ᗴᑎᗪIᑎᘜ
+### ᑎᗴᑌTᖇᗩᒪ ᗴᑎᗪIᑎᘜ
 — . . . Both The Rustborne Syndicate and The Warmblood Alliance. . lost?
 
 
-## ᗷᗩᗪ ᗴᑎᗪIᑎᘜ
+### ᗷᗩᗪ ᗴᑎᗪIᑎᘜ
 — The Rustborne Syndicate accomplished their mission and The Warmblood Alliance is no more.
 
 
-## ᘜᗩᗰᗴ ᗴᑎᗪ
+### ᘜᗩᗰᗴ ᗴᑎᗪ
 — Everyone chooses the game to end!! Tsk..boring.
