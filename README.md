@@ -96,15 +96,23 @@
 
 ### ᘜOOᗪ ᗴᑎᗪIᑎᘜ 
 — You've successfully took out The Rustborne Syndicate members.. Now you just have to find a way back to the city.
+- NO REMAINING EVIL TEAMS
 
 
 ### ᑎᗴᑌTᖇᗩᒪ ᗴᑎᗪIᑎᘜ
 — . . . Both The Rustborne Syndicate and The Warmblood Alliance. . lost?
+- NO REMAINING GOOD OR EVIL TEAM
 
 
 ### ᗷᗩᗪ ᗴᑎᗪIᑎᘜ
 — The Rustborne Syndicate accomplished their mission and The Warmblood Alliance is no more.
+- NO REMAINING GOOD TEAM
 
 
 ### ᘜᗩᗰᗴ ᗴᑎᗪ
 — Everyone chooses the game to end!! Tsk..boring.
+
+
+### ᒍᗴՏTᗴᖇ ᗴᑎᗪIᑎᘜ
+— Fooled by the clown themself, are you STUPID?!?!?!?!
+- VOTE THE SNOWMELT FOOL.
